@@ -15,4 +15,3 @@ chmod +x /usr/lib64/slurm/spank_pyxis.so
 
 ln -s /sched/plugstack.conf /etc/slurm/plugstack.conf
 ln -s /sched/plugstack.conf.d /etc/slurm/plugstack.conf.d
-systemctl restart slurmd
