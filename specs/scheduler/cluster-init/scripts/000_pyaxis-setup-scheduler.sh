@@ -2,7 +2,7 @@
 set -e
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-PYXIS_VERSION=0.19.0
+PYXIS_VERSION=0.20.0
 SHARED_DIR=/sched/pyxis
 
 # building pyxis library
